@@ -56,3 +56,10 @@ mlruns/
 
 .link-cache.json
 .claude/
+
+# Model checkpoints and large AI artifacts
+*.pt
+*.pth
+*.safetensors
+*.ckpt
+*.onnx
