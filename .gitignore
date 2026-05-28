@@ -27,6 +27,7 @@ Cargo.lock
 *.ji
 
 .env
+.env.*
 .env.local
 .env.*.local
 *.pem
