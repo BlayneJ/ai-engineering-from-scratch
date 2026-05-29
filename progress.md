@@ -5,3 +5,4 @@
 - Completed Phase 0 Lesson 03: GPU Setup & Cloud
   - Local CUDA works
   - Ran CPU vs GPU benchmark
+- Completed Phase 0 Lesson 11: Linux for AI
